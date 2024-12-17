@@ -9,9 +9,6 @@ class Kathir{
         String c = name.nextLine(); 
         System.out.println("my name is "+a);
         System.out.println("age is " +b);
-        System.out.println("address: "+c);
-
-
-        
+        System.out.println("address: "+c);        
     }
 }
